@@ -1,5 +1,5 @@
 # WizardWarz
-Play the game here: http://wizardwarz.nergal.se 
+Play the game here: http://heyitsvivek.github.io/wizardwarz
 
 *NOTE: The game is currently running on port 8082 on my server so if you are behind a firewall it might not work for you*
 
